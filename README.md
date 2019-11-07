@@ -1,7 +1,4 @@
-### ideas on tech/science/art/business/education/philosophy/sociology/politics/...
-
-
-### seminars - notes on  Great ideas 
+#### seminars - notes on  Great ideas on tech/science/art/business/education/philosophy/sociology/politics/...
 
 #### reference 
 * [Stanford-CS208e: Great Ideas in Computer Science](https://web.stanford.edu/class/cs208e/cgi-bin/main.cgi/schedule/) 

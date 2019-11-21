@@ -1,5 +1,5 @@
 #### seminars 
-* Great ideas on tech/science/art/business/education/philosophy/sociology/politics/...
+* Great ideas in tech/science/art/philosophy/sociology...
 
 #### notes
 

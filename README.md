@@ -1,7 +1,9 @@
 #### seminars 
 * Great ideas in tech/science/art/philosophy/sociology...
 
-#### notes
+#### notes  
+* 生活是具體的  
+
 
 #### reference 
 * [Stanford-CS208e: Great Ideas in Computer Science](https://web.stanford.edu/class/cs208e/cgi-bin/main.cgi/schedule/) 

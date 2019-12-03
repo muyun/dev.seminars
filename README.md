@@ -1,5 +1,5 @@
 #### seminars 
-* Great ideas in tech/science/art/philosophy/sociology...
+* Great ideas in tech/science/philosophy/art/sociology...
 
 #### notes  
 * 生活是具體的  

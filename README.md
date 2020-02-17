@@ -4,7 +4,8 @@
 #### notes  
 * 生活是具體的  
 
-#### paper-reading
+#### come up with novel ideas 
+
 * [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
 

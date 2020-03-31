@@ -40,6 +40,9 @@
 * [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 
 
+#### search  
+* [semanticscholar](https://www.semanticscholar.org/)
+
 #### reference 
 * [Stanford-CS208e: Great Ideas in Computer Science](https://web.stanford.edu/class/cs208e/cgi-bin/main.cgi/schedule/) 
 * [Stanford-MS&E472 - Entrepreneurial Thought Leaders' Seminar](http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=12779)

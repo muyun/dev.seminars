@@ -1,5 +1,5 @@
 #### seminars 
-* Come up with ideas in tech/science/philosophy/art/sociology...
+* Come up with ideas 
 
 #### notes  
 * 生活是具體的  

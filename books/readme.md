@@ -1,4 +1,7 @@
 
+#### books 
+* [My Country And My People](https://book.douban.com/subject/2057510/) by Lin Yutang
+
 #### articles  
 * [程晓农：中国科技发展的“成功”与陷阱](https://www.rfa.org/mandarin/pinglun/chengxiaonong/cxn-10292020062652.html)
 * [阿Ｑ正传](https://www.marxists.org/chinese/reference-books/luxun/03/012.htm)
